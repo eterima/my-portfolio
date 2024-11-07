@@ -112,7 +112,7 @@
 </style>
 
 <div class="container">
-  <img src="/src/profile-pic.png" alt="Profile Picture" class="profile-pic" />
+  <img src="https://github.com/eterima/my-portfolio/blob/main/src/profile-pic.png?raw=true" alt="Profile Picture" class="profile-pic" />
 
   <div class="content">
      <h1>{profile.name}</h1>
