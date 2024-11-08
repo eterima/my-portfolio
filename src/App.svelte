@@ -88,7 +88,7 @@
      border: none;
      border-radius: 4px;
      cursor: pointer;
-     text-align:left;
+     text-align:center;
      transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
 
   }
@@ -140,7 +140,8 @@
    }
 
    .contact-links {
-      justify-content: left;
+      justify-content: center;
+      text-align: center;
    }
 
    .buttons {
