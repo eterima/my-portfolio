@@ -109,6 +109,78 @@
      text-align:left;
      color: #000a13;
   }
+
+  @media (max-width: 768px) {
+   .container {
+      flex-direction: column;
+      align-items: center;
+      padding: 1rem;
+      box-shadow: none;
+   }
+
+   .profile-pic {
+      width: 80%;
+      height: auto;
+      margin: 0 0 1rem 0;
+   }
+
+   h1 {
+      font-size: 1.5rem;
+      text-align: left;
+   }
+
+   h2 {
+      font-size: 1rem;
+      text-align: left;
+   }
+
+   .bio, .skills, .philosophy, .cta {
+      text-align: left;
+      font-size: 0.9rem;
+   }
+
+   .contact-links {
+      justify-content: left;
+   }
+
+   .buttons {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+   }
+
+   .button {
+      width: 100%;
+      margin: 0.5rem 0;
+   }
+}
+
+/* Media Query for Very Small Screens */
+@media (max-width: 480px) {
+   .container {
+      padding: 0.5rem;
+   }
+
+   h1 {
+      font-size: 1.2rem;
+   }
+
+   h2 {
+      font-size: 0.9rem;
+   }
+
+   .contact-links a {
+      font-size: 1.2rem;
+   }
+
+   .button {
+      font-size: 0.9rem;
+      padding: 0.4rem;
+   }
+}
+
+
 </style>
 
 <div class="container">
