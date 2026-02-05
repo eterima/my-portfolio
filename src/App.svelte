@@ -1,7 +1,7 @@
 <script>
   const profile = {
     name: "Eka Terima",
-     title: "People & Culture Manager",
+     title: " Head of People & Culture",
      bio: "Hi, I'm Eka! I'm a People & Tech enthusiast working at epilot.",
      skills: "As People & Tech enthusiast I combine passion for all things People with a strong focus on tech. Working in a fast paced software company I was able to prove my People & Culture skills from end-to-end: From employer branding, to recruiting (focus on tech), onboarding, people management, development and administration, to offboarding.",
      philosophy: "Understanding the business, product, job roles and even having a high-level knowledge of the tech side helps me to bring the most value for the growth of our company. ",
